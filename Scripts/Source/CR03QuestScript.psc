@@ -3,8 +3,6 @@ Scriptname CR03QuestScript extends CompanionsRadiantQuest conditional
 ReferenceAlias Property SamplePelt auto
 ReferenceAlias Property SamplePeltSpawnPoint auto
 
-int Property UpdateInterval auto
-
 int Property MinSkins auto
 int Property MaxSkins auto
 
